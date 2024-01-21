@@ -1,3 +1,12 @@
+
+<img width="100%" alt="스크린샷 2024-01-05 001722" src="https://github.com/yu-hyun2/CS-OS-with-hongong11/assets/121507181/b2430856-559c-4add-8979-dc5b72d93f09">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # 01 시작
 
 ## ✔️ 컴퓨터 구조 이해의 장점

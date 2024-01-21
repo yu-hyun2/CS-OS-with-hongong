@@ -1,3 +1,15 @@
+
+
+<img width="100%" alt="스크린샷 2024-01-10 220147" src="https://github.com/yu-hyun2/CS-OS-with-hongong11/assets/121507181/c0ec0e65-dc94-482b-94f5-4b827bc397cd">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # 04 CPU의 작동 원리
 
 ## ALU와 제어장치

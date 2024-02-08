@@ -1,7 +1,8 @@
 
 <img width="757" alt="스크린샷 2024-01-28 192351" src="https://github.com/yu-hyun2/CS-OS-with-hongong11/assets/121507181/d441ec86-2e07-4f79-9945-29fa355e4dbf">
 
-<br><br>
+<br>
+<br>
 
 # 운영체제
 

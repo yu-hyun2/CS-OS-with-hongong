@@ -1,3 +1,12 @@
+
+<img width="908" alt="스크린샷 2024-02-04 224946" src="https://github.com/yu-hyun2/CS-OS-with-hongong11/assets/121507181/7d28f317-12aa-48c9-a897-3d7c96b57780">
+
+
+<br>
+
+
+<br>
+
 # 12. 프로세스 동기화
 
 ---
